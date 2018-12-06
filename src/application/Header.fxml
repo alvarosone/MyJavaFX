@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="338.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controlador">
+   <children>
+      <ImageView fx:id="smash" fitHeight="338.0" fitWidth="714.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@smash.jpg" />
+         </image></ImageView>
+   </children>
+</AnchorPane>
